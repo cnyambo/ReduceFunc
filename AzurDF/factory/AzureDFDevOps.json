@@ -1,0 +1,9 @@
+{
+	"name": "AzureDFDevOps",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4950f4f6-50a2-4a77-a43c-df20250b1326",
+		"tenantId": "a881ef2d-00ab-4849-8ae6-877f2a012614"
+	}
+}
